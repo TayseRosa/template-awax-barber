@@ -2,8 +2,8 @@
 https://barber-template.tayserosa.com/
 
 <a href="https://www.tayserosa.com">
-<img src="./layout_web.jpg" target="_blank" alt="Tayse Rosa">
-<img src="./layout_mobile.jpg" target="_blank" alt="Tayse Rosa">
+<img src="./readmeImages/layout_web.jpg" target="_blank" alt="Tayse Rosa">
+<img src="./readmeImages/layout_mobile.jpg" target="_blank" alt="Tayse Rosa">
 </a>
 
 <div align="center">
@@ -33,7 +33,7 @@ Como alternativa, consulte a documentação do GitHub em [como criar uma solicit
 
 
 <a href="https://www.tayserosa.com">
-<img src="./about_developer.png" target="_blank" alt="Tayse Rosa">
+<img src="./readmeImages/about_developer.png" target="_blank" alt="Tayse Rosa">
 </a>
 
 Copyright :copyright: 2024 · Desenvolvido por 💜 Tayse Rosa        
