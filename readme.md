@@ -1,39 +1,31 @@
 
-<h1 align="center">Awax<h1>
+<h1 align="center">Barber Template <h1>
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+
+### Projeto online
+https://barber-template.tayserosa.com/
+
+🟢 Projeto concluído:
+
 
 <p align="center">
   <img width="100%" style="max-width:100%" src="mockup.png">
 </p>
 
-## :rocket: Tecnologias
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+
   
-## :globe: Site em funcionamento
-Acesse [aqui.](https://www.tayserosa.com)
+## :globe: Projeto online
+Acesse [aqui.](https://barber-template.tayserosa.com/)
 
 
 ## :memo: Licença
 Esse projeto está sob a licença MIT. Veja o arquivo [LICENSE](LICENSE.md) para mais detalhes.
 
 
-### Projeto online
-https://barber-template.tayserosa.com/
-
 <a href="https://www.tayserosa.com">
 <img src="./readmeImages/layout_web.jpg" target="_blank" alt="Tayse Rosa">
-<img src="./readmeImages/layout_mobile.jpg" target="_blank" alt="Tayse Rosa">
 </a>
 
-<div align="center">
-# Template Barber Awax - HTML CSS JS
-</div>
-
-
-
-### Projeto online
-https://barber-template.tayserosa.com/
-
-🟢 Projeto concluído:
 
 
 
