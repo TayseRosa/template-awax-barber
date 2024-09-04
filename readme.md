@@ -2,8 +2,9 @@
 <h1 align="center">Barber Template <h1>
 
 
-### Projeto online
-https://barber-template.tayserosa.com/
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+
+### Projeto online: https://barber-template.tayserosa.com/
 
 🟢 Status do projeto: concluído:
 
@@ -13,9 +14,6 @@ https://barber-template.tayserosa.com/
 </p>
 
 
-  
-## Projeto online
-Acesse [aqui.](https://barber-template.tayserosa.com/)
 
 ## :memo: Licença
 Esse projeto está sob a licença MIT. Veja o arquivo [LICENSE](LICENSE.md) para mais detalhes.
