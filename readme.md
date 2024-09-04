@@ -10,7 +10,7 @@
 
 
 <p align="center">
-  <img width="100%" style="max-width:100%" src="mockup.png">
+  <img width="100%" style="max-width:100%" src="readmeImages/mockup.png">
 </p>
 
 
