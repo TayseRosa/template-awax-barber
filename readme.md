@@ -1,6 +1,7 @@
 
 <h1 align="center">Barber Template <h1>
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 
 ### Projeto online
 https://barber-template.tayserosa.com/
@@ -18,15 +19,15 @@ https://barber-template.tayserosa.com/
 Acesse [aqui.](https://barber-template.tayserosa.com/)
 
 
-## :memo: Licença
-Esse projeto está sob a licença MIT. Veja o arquivo [LICENSE](LICENSE.md) para mais detalhes.
-
 
 <a href="https://www.tayserosa.com">
 <img src="./readmeImages/layout_web.jpg" target="_blank" alt="Tayse Rosa">
 </a>
 
 
+
+## :memo: Licença
+Esse projeto está sob a licença MIT. Veja o arquivo [LICENSE](LICENSE.md) para mais detalhes.
 
 
 ## 📫 Contribuindo para Projeto
